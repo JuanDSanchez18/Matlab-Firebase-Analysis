@@ -1,0 +1,566 @@
+{
+  "Estacion1" : {
+    "H_11:21:49" : {
+      "M_04EA564BA497" : {
+        "Duracion (s)" : 240,
+        "Tiempo_final" : "11:28:14",
+        "Tiempo_inicial" : "11:24:14"
+      },
+      "M_34F39A694209" : {
+        "Duracion (s)" : 314,
+        "Tiempo_final" : "11:36:42",
+        "Tiempo_inicial" : "11:31:28"
+      },
+      "M_70BBE9FBF021" : {
+        "Duracion (s)" : 234,
+        "Tiempo_final" : "11:36:10",
+        "Tiempo_inicial" : "11:32:16"
+      },
+      "M_8086D9AF3AE6" : {
+        "Duracion (s)" : 733,
+        "Tiempo_final" : "11:36:29",
+        "Tiempo_inicial" : "11:24:16"
+      },
+      "M_90633B9E2D27" : {
+        "Duracion (s)" : 720,
+        "Tiempo_final" : "11:33:55",
+        "Tiempo_inicial" : "11:21:55"
+      },
+      "M_9094975A9B30" : {
+        "Duracion (s)" : 649,
+        "Tiempo_final" : "11:36:49",
+        "Tiempo_inicial" : "11:26:00"
+      },
+      "M_DC08563607F0" : {
+        "Duracion (s)" : 859,
+        "Tiempo_final" : "11:36:11",
+        "Tiempo_inicial" : "11:21:52"
+      },
+      "M_DC0856360D10" : {
+        "Duracion (s)" : 541,
+        "Tiempo_final" : "11:35:50",
+        "Tiempo_inicial" : "11:26:49"
+      },
+      "Usuarios" : 8
+    },
+    "H_11:36:50" : {
+      "M_04EA564BA497" : {
+        "Duracion (s)" : 420,
+        "Tiempo_final" : "11:46:14",
+        "Tiempo_inicial" : "11:39:14"
+      },
+      "M_1826494C0806" : {
+        "Duracion (s)" : 762,
+        "Tiempo_final" : "11:52:06",
+        "Tiempo_inicial" : "11:39:24"
+      },
+      "M_34F39A694209" : {
+        "Duracion (s)" : 603,
+        "Tiempo_final" : "11:48:11",
+        "Tiempo_inicial" : "11:38:08"
+      },
+      "M_70BBE9FBF021" : {
+        "Duracion (s)" : 240,
+        "Tiempo_final" : "11:51:00",
+        "Tiempo_inicial" : "11:47:00"
+      },
+      "M_8086D9AF3AE6" : {
+        "Duracion (s)" : 858,
+        "Tiempo_final" : "11:51:46",
+        "Tiempo_inicial" : "11:37:28"
+      },
+      "M_90633B9E2D27" : {
+        "Duracion (s)" : 660,
+        "Tiempo_final" : "11:48:15",
+        "Tiempo_inicial" : "11:37:15"
+      },
+      "M_9094975A9B30" : {
+        "Duracion (s)" : 801,
+        "Tiempo_final" : "11:50:11",
+        "Tiempo_inicial" : "11:36:50"
+      },
+      "M_D00401E88B48" : {
+        "Tiempo_final" : "11:48:40",
+        "Tiempo_inicial" : "11:46:18"
+      },
+      "M_DC08563607F0" : {
+        "Duracion (s)" : 849,
+        "Tiempo_final" : "11:51:01",
+        "Tiempo_inicial" : "11:36:52"
+      },
+      "M_DC0856360D10" : {
+        "Duracion (s)" : 521,
+        "Tiempo_final" : "11:46:30",
+        "Tiempo_inicial" : "11:37:49"
+      },
+      "Usuarios" : 10
+    },
+    "H_11:52:07" : {
+      "M_04EA564BA497" : {
+        "Tiempo_final" : "12:02:14",
+        "Tiempo_inicial" : "11:59:14"
+      },
+      "M_1826494C0806" : {
+        "Duracion (s)" : 780,
+        "Tiempo_final" : "12:06:05",
+        "Tiempo_inicial" : "11:53:05"
+      },
+      "M_70BBE9FBF021" : {
+        "Duracion (s)" : 759,
+        "Tiempo_final" : "12:05:09",
+        "Tiempo_inicial" : "11:52:30"
+      },
+      "M_8086D9AF3AE6" : {
+        "Duracion (s)" : 886,
+        "Tiempo_final" : "12:06:55",
+        "Tiempo_inicial" : "11:52:09"
+      },
+      "M_9094975A9B30" : {
+        "Duracion (s)" : 375,
+        "Tiempo_final" : "12:02:04",
+        "Tiempo_inicial" : "11:55:49"
+      },
+      "M_D00401991D41" : {
+        "Tiempo_final" : "11:57:36",
+        "Tiempo_inicial" : "11:55:58"
+      },
+      "M_DC08563607F0" : {
+        "Duracion (s)" : 879,
+        "Tiempo_final" : "12:07:23",
+        "Tiempo_inicial" : "11:52:44"
+      },
+      "M_DC0856360D10" : {
+        "Duracion (s)" : 738,
+        "Tiempo_final" : "12:05:28",
+        "Tiempo_inicial" : "11:53:10"
+      },
+      "M_EEE20BD10482" : {
+        "Duracion (s)" : 645,
+        "Tiempo_final" : "12:06:43",
+        "Tiempo_inicial" : "11:55:58"
+      },
+      "Usuarios" : 9
+    },
+    "H_12:07:24" : {
+      "M_04EA564BA497" : {
+        "Duracion (s)" : 780,
+        "Tiempo_final" : "12:22:14",
+        "Tiempo_inicial" : "12:09:14"
+      },
+      "M_34F39A694209" : {
+        "Duracion (s)" : 603,
+        "Tiempo_final" : "12:18:20",
+        "Tiempo_inicial" : "12:08:17"
+      },
+      "M_70BBE9FBF021" : {
+        "Duracion (s)" : 273,
+        "Tiempo_final" : "12:22:45",
+        "Tiempo_inicial" : "12:18:12"
+      },
+      "M_8086D9AF3AE6" : {
+        "Duracion (s)" : 615,
+        "Tiempo_final" : "12:17:48",
+        "Tiempo_inicial" : "12:07:33"
+      },
+      "M_9094975A9B30" : {
+        "Duracion (s)" : 417,
+        "Tiempo_final" : "12:21:17",
+        "Tiempo_inicial" : "12:14:20"
+      },
+      "M_DC08563607F0" : {
+        "Duracion (s)" : 779,
+        "Tiempo_final" : "12:20:23",
+        "Tiempo_inicial" : "12:07:24"
+      },
+      "M_EEE20BD10482" : {
+        "Duracion (s)" : 629,
+        "Tiempo_final" : "12:20:21",
+        "Tiempo_inicial" : "12:09:52"
+      },
+      "Usuarios" : 7
+    },
+    "H_12:22:46" : {
+      "M_04EA564BA497" : {
+        "Tiempo_final" : "12:26:14",
+        "Tiempo_inicial" : "12:24:14"
+      },
+      "M_1826494C0806" : {
+        "Duracion (s)" : 561,
+        "Tiempo_final" : "12:33:42",
+        "Tiempo_inicial" : "12:24:21"
+      },
+      "M_70BBE9FBF021" : {
+        "Duracion (s)" : 581,
+        "Tiempo_final" : "12:33:15",
+        "Tiempo_inicial" : "12:23:34"
+      },
+      "M_8086D9AF3AE6" : {
+        "Duracion (s)" : 655,
+        "Tiempo_final" : "12:33:50",
+        "Tiempo_inicial" : "12:22:55"
+      },
+      "M_90633B9E2D27" : {
+        "Tiempo_final" : "12:33:23",
+        "Tiempo_inicial" : "12:32:54"
+      },
+      "M_9094975A9B30" : {
+        "Tiempo_final" : "12:32:11",
+        "Tiempo_inicial" : "12:31:16"
+      },
+      "M_DC08563607F0" : {
+        "Duracion (s)" : 610,
+        "Tiempo_final" : "12:33:25",
+        "Tiempo_inicial" : "12:23:15"
+      },
+      "Usuarios" : 7
+    },
+    "H_13:44:15" : {
+      "M_7C76359FA01A" : {
+        "Duracion (s)" : 427,
+        "Tiempo_final" : "13:57:18",
+        "Tiempo_inicial" : "13:50:11"
+      },
+      "M_DC0856360530" : {
+        "Duracion (s)" : 781,
+        "Tiempo_final" : "13:57:47",
+        "Tiempo_inicial" : "13:44:46"
+      },
+      "M_DC08563607F0" : {
+        "Duracion (s)" : 821,
+        "Tiempo_final" : "13:59:16",
+        "Tiempo_inicial" : "13:45:35"
+      },
+      "M_DC0856360D10" : {
+        "Duracion (s)" : 260,
+        "Tiempo_final" : "13:58:14",
+        "Tiempo_inicial" : "13:53:54"
+      },
+      "M_EEE20BD10482" : {
+        "Duracion (s)" : 619,
+        "Tiempo_final" : "13:54:54",
+        "Tiempo_inicial" : "13:44:35"
+      },
+      "Usuarios" : 5
+    },
+    "H_13:59:17" : {
+      "M_7C76359FA01A" : {
+        "Duracion (s)" : 301,
+        "Tiempo_final" : "14:07:16",
+        "Tiempo_inicial" : "14:02:15"
+      },
+      "M_DC0856360530" : {
+        "Duracion (s)" : 919,
+        "Tiempo_final" : "14:15:06",
+        "Tiempo_inicial" : "13:59:47"
+      },
+      "M_DC08563607F0" : {
+        "Duracion (s)" : 899,
+        "Tiempo_final" : "14:14:16",
+        "Tiempo_inicial" : "13:59:17"
+      },
+      "M_EEE20BD10482" : {
+        "Duracion (s)" : 556,
+        "Tiempo_final" : "14:11:48",
+        "Tiempo_inicial" : "14:02:32"
+      },
+      "Usuarios" : 4
+    },
+    "H_14:15:07" : {
+      "M_8086D9AF3AE6" : {
+        "Duracion (s)" : 391,
+        "Tiempo_final" : "14:29:49",
+        "Tiempo_inicial" : "14:23:18"
+      },
+      "M_9094975A9B30" : {
+        "Duracion (s)" : 426,
+        "Tiempo_final" : "14:29:55",
+        "Tiempo_inicial" : "14:22:49"
+      },
+      "M_DC0856360530" : {
+        "Duracion (s)" : 780,
+        "Tiempo_final" : "14:28:07",
+        "Tiempo_inicial" : "14:15:07"
+      },
+      "M_DC08563607F0" : {
+        "Duracion (s)" : 821,
+        "Tiempo_final" : "14:29:36",
+        "Tiempo_inicial" : "14:15:55"
+      },
+      "M_DC0856360D10" : {
+        "Duracion (s)" : 780,
+        "Tiempo_final" : "14:28:34",
+        "Tiempo_inicial" : "14:15:34"
+      },
+      "Usuarios" : 5
+    },
+    "H_14:30:09" : {
+      "M_34F39A694209" : {
+        "Tiempo_final" : "14:32:54",
+        "Tiempo_inicial" : "14:30:58"
+      },
+      "M_8086D9AF3AE6" : {
+        "Tiempo_final" : "14:32:43",
+        "Tiempo_inicial" : "14:31:17"
+      },
+      "M_9094975A9B30" : {
+        "Duracion (s)" : 181,
+        "Tiempo_final" : "14:33:10",
+        "Tiempo_inicial" : "14:30:09"
+      },
+      "M_DC08563607F0" : {
+        "Tiempo_final" : "14:31:36",
+        "Tiempo_inicial" : "14:30:55"
+      },
+      "Usuarios" : 4
+    },
+    "H_14:47:15" : {
+      "M_04EA564BA497" : {
+        "Duracion (s)" : 900,
+        "Tiempo_final" : "15:02:15",
+        "Tiempo_inicial" : "14:47:15"
+      },
+      "M_04EA5683E523" : {
+        "Duracion (s)" : 780,
+        "Tiempo_final" : "15:01:51",
+        "Tiempo_inicial" : "14:48:51"
+      },
+      "M_24418C175F39" : {
+        "Duracion (s)" : 181,
+        "Tiempo_final" : "14:51:08",
+        "Tiempo_inicial" : "14:48:07"
+      },
+      "M_24418C176178" : {
+        "Duracion (s)" : 302,
+        "Tiempo_final" : "14:53:50",
+        "Tiempo_inicial" : "14:48:48"
+      },
+      "M_24418C1C1308" : {
+        "Tiempo_final" : "14:49:47",
+        "Tiempo_inicial" : "14:47:46"
+      },
+      "M_8086D9AF3AE6" : {
+        "Duracion (s)" : 561,
+        "Tiempo_final" : "15:01:53",
+        "Tiempo_inicial" : "14:52:32"
+      },
+      "M_90633B9E2D27" : {
+        "Duracion (s)" : 403,
+        "Tiempo_final" : "14:57:29",
+        "Tiempo_inicial" : "14:50:46"
+      },
+      "M_9094975A9B30" : {
+        "Duracion (s)" : 689,
+        "Tiempo_final" : "15:00:24",
+        "Tiempo_inicial" : "14:48:55"
+      },
+      "M_BC98DF367DE3" : {
+        "Tiempo_final" : "14:49:07",
+        "Tiempo_inicial" : "14:47:47"
+      },
+      "M_DC08563607F0" : {
+        "Duracion (s)" : 821,
+        "Tiempo_final" : "15:01:52",
+        "Tiempo_inicial" : "14:48:11"
+      },
+      "M_EEE20BD10482" : {
+        "Duracion (s)" : 394,
+        "Tiempo_final" : "14:54:02",
+        "Tiempo_inicial" : "14:47:28"
+      },
+      "Usuarios" : 11
+    },
+    "H_15:02:16" : {
+      "M_04EA564BA497" : {
+        "Duracion (s)" : 239,
+        "Tiempo_final" : "15:07:14",
+        "Tiempo_inicial" : "15:03:15"
+      },
+      "M_9094975A9B30" : {
+        "Duracion (s)" : 254,
+        "Tiempo_final" : "15:07:08",
+        "Tiempo_inicial" : "15:02:54"
+      },
+      "M_DC08563607F0" : {
+        "Tiempo_final" : "15:05:31",
+        "Tiempo_inicial" : "15:03:11"
+      },
+      "Usuarios" : 3
+    }
+  },
+  "Estacion2" : {
+    "H_11:09:09" : {
+      "M_70BBE9FBF021" : {
+        "Duracion (s)" : 721,
+        "Tiempo_final" : "11:21:10",
+        "Tiempo_inicial" : "11:09:09"
+      },
+      "M_8086D9AF3AE6" : {
+        "Duracion (s)" : 461,
+        "Tiempo_final" : "11:20:22",
+        "Tiempo_inicial" : "11:12:41"
+      },
+      "M_90633B9E2D27" : {
+        "Duracion (s)" : 379,
+        "Tiempo_final" : "11:20:55",
+        "Tiempo_inicial" : "11:14:36"
+      },
+      "M_DC08563607F0" : {
+        "Duracion (s)" : 701,
+        "Tiempo_final" : "11:20:52",
+        "Tiempo_inicial" : "11:09:11"
+      },
+      "M_EEE20BD10482" : {
+        "Duracion (s)" : 461,
+        "Tiempo_final" : "11:20:28",
+        "Tiempo_inicial" : "11:12:47"
+      },
+      "Usuarios" : 5
+    },
+    "H_11:20:41" : {
+      "M_90633B9E2D27" : {
+        "Duracion (s)" : 473,
+        "Tiempo_final" : "11:34:55",
+        "Tiempo_inicial" : "11:27:02"
+      },
+      "Usuarios" : 1
+    },
+    "H_11:36:06" : {
+      "M_1826494C0806" : {
+        "Duracion (s)" : 799,
+        "Tiempo_final" : "11:53:05",
+        "Tiempo_inicial" : "11:39:46"
+      },
+      "M_24418C1C1308" : {
+        "Duracion (s)" : 538,
+        "Tiempo_final" : "11:45:44",
+        "Tiempo_inicial" : "11:36:46"
+      },
+      "M_9094975A9B30" : {
+        "Duracion (s)" : 661,
+        "Tiempo_final" : "11:48:16",
+        "Tiempo_inicial" : "11:37:15"
+      },
+      "Usuarios" : 3
+    },
+    "H_11:53:06" : {
+      "M_1826494C0806" : {
+        "Duracion (s)" : 780,
+        "Tiempo_final" : "12:07:05",
+        "Tiempo_inicial" : "11:54:05"
+      },
+      "M_9094975A9B30" : {
+        "Duracion (s)" : 376,
+        "Tiempo_final" : "12:08:20",
+        "Tiempo_inicial" : "12:02:04"
+      },
+      "M_DC0856360530" : {
+        "Duracion (s)" : 200,
+        "Tiempo_final" : "12:05:26",
+        "Tiempo_inicial" : "12:02:06"
+      },
+      "Usuarios" : 3
+    },
+    "H_12:08:20" : {
+      "M_24418C1C1308" : {
+        "Tiempo_final" : "12:15:46",
+        "Tiempo_inicial" : "12:13:44"
+      },
+      "M_70BBE9FBF021" : {
+        "Tiempo_final" : "12:23:33",
+        "Tiempo_inicial" : "12:22:45"
+      },
+      "M_8086D9AF3AE6" : {
+        "Duracion (s)" : 209,
+        "Tiempo_final" : "12:17:47",
+        "Tiempo_inicial" : "12:14:18"
+      },
+      "M_90633B9E2D27" : {
+        "Duracion (s)" : 461,
+        "Tiempo_final" : "12:21:59",
+        "Tiempo_inicial" : "12:14:18"
+      },
+      "M_9094975A9B30" : {
+        "Duracion (s)" : 360,
+        "Tiempo_final" : "12:14:20",
+        "Tiempo_inicial" : "12:08:20"
+      },
+      "M_DC0856360530" : {
+        "Duracion (s)" : 720,
+        "Tiempo_final" : "12:22:46",
+        "Tiempo_inicial" : "12:10:46"
+      },
+      "Usuarios" : 6
+    },
+    "H_12:23:33" : {
+      "M_1826494C0806" : {
+        "Duracion (s)" : 217,
+        "Tiempo_final" : "12:33:42",
+        "Tiempo_inicial" : "12:30:05"
+      },
+      "M_24418C1C1308" : {
+        "Duracion (s)" : 242,
+        "Tiempo_final" : "12:28:46",
+        "Tiempo_inicial" : "12:24:44"
+      },
+      "M_70BBE9FBF021" : {
+        "Duracion (s)" : 492,
+        "Tiempo_final" : "12:31:45",
+        "Tiempo_inicial" : "12:23:33"
+      },
+      "M_DC0856360530" : {
+        "Duracion (s)" : 520,
+        "Tiempo_final" : "12:32:26",
+        "Tiempo_inicial" : "12:23:46"
+      },
+      "Usuarios" : 4
+    },
+    "H_14:51:48" : {
+      "M_1826494C0806" : {
+        "Duracion (s)" : 236,
+        "Tiempo_final" : "15:10:20",
+        "Tiempo_inicial" : "15:06:24"
+      },
+      "M_24418C175F39" : {
+        "Tiempo_final" : "15:00:07",
+        "Tiempo_inicial" : "14:57:07"
+      },
+      "M_24418C1C1308" : {
+        "Duracion (s)" : 662,
+        "Tiempo_final" : "15:02:50",
+        "Tiempo_inicial" : "14:51:48"
+      },
+      "M_8086D9AF3AE6" : {
+        "Duracion (s)" : 330,
+        "Tiempo_final" : "15:01:53",
+        "Tiempo_inicial" : "14:56:23"
+      },
+      "M_9094975A9B30" : {
+        "Tiempo_final" : "15:04:08",
+        "Tiempo_inicial" : "15:01:10"
+      },
+      "M_DC0856360530" : {
+        "Duracion (s)" : 520,
+        "Tiempo_final" : "15:02:07",
+        "Tiempo_inicial" : "14:53:27"
+      },
+      "M_EEE20BD10482" : {
+        "Duracion (s)" : 278,
+        "Tiempo_final" : "14:56:36",
+        "Tiempo_inicial" : "14:51:58"
+      },
+      "Usuarios" : 7
+    },
+    "H_15:10:21" : {
+      "M_1826494C0806" : {
+        "Duracion (s)" : 190,
+        "Tiempo_final" : "15:13:31",
+        "Tiempo_inicial" : "15:10:21"
+      },
+      "M_24418C175F39" : {
+        "Tiempo_final" : "15:14:07",
+        "Tiempo_inicial" : "15:11:07"
+      },
+      "Usuarios" : 2
+    }
+  }
+}
